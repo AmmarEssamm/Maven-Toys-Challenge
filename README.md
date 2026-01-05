@@ -1,4 +1,5 @@
-# Maven-Toys-Challenge – Sales & Expansion Analysis
+# Maven-Toys-Challenge – Power Bi Project
+
 
 ## Project Overview
 
@@ -78,13 +79,7 @@ Certain store locations consistently outperform others, suggesting ideal models 
 
 Stable profit trends indicate the business is ready for controlled geographic expansion.
 
-## Expansion Strategy Recommendation
+Dashboard 
+<img width="1429" height="704" alt="Screenshot_6" src="https://github.com/user-attachments/assets/ab078494-ce05-4bfb-b023-ea10f77268b8" />
 
-Based on the analysis:
-
-Prioritize expansion in high-performing store location types
-
-Focus inventory planning around top-selling categories
-
-Align new store launches with peak sales months to maximize early performance
 
