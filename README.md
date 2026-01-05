@@ -69,7 +69,7 @@ Store Location Filter
 
 Compare performance across Airport, Commercial, Downtown, and Residential stores
 
-🔍 Key Insights
+## Key Insights
 
 Toys and Art & Crafts are the top-performing product categories by total orders.
 
@@ -79,7 +79,7 @@ Certain store locations consistently outperform others, suggesting ideal models 
 
 Stable profit trends indicate the business is ready for controlled geographic expansion.
 
-Dashboard 
+## Dashboard 
 <img width="1425" height="698" alt="image" src="https://github.com/user-attachments/assets/58293b30-c160-40ab-9dc3-9a1188ef8b53" />
 
 
