@@ -80,6 +80,6 @@ Certain store locations consistently outperform others, suggesting ideal models 
 Stable profit trends indicate the business is ready for controlled geographic expansion.
 
 Dashboard 
-<img width="1429" height="704" alt="Screenshot_6" src="https://github.com/user-attachments/assets/ab078494-ce05-4bfb-b023-ea10f77268b8" />
+<img width="1425" height="698" alt="image" src="https://github.com/user-attachments/assets/58293b30-c160-40ab-9dc3-9a1188ef8b53" />
 
 
